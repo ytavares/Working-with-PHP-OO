@@ -1,0 +1,19 @@
+{
+    "name": "yuritavares/src",
+    "description": "Exercicios",
+    "type": "project",
+    "license": "n",
+    "authors": [
+        {
+            "name": "Yuri Tavares",
+            "email": "yuri.tavares_rs@hotmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "YuriTavares\\" : "src"
+        }
+    }
+}

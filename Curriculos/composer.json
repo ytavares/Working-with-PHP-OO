@@ -1,0 +1,11 @@
+{
+    "name": "setra/curriculos",
+    "description": "Apenas um projeto para aprendizando de OO com PHP",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "YuriTavares\\" : "src"
+        }
+    }
+}
